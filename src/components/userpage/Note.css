@@ -1,0 +1,55 @@
+#noteBack {
+    border: 0.4px double rgba(34,34,34,0.1);
+    border-radius:5px;
+    width: 25vw;
+    position: absolute;
+    margin: 6% 0% 0% 0%;
+}
+#notesTitle{
+    text-align: center;
+    padding: 2% 0% 0% 0%;
+}
+#notebtn{
+    border: none;
+    padding: 1% 9%;
+    width: 22vw;
+    margin: 0% 0% 0% 6%;
+    background-color: #262626;
+    border-radius: 5px;
+    color: white
+}
+#notebtn:focus{
+    outline: none;
+}
+#noteInput{
+    border-top: 1px solid #222;
+    border-bottom: 1px solid #222;
+    border-left: none;
+    border-right: none;
+    background: transparent;
+    width: 24vw;
+    margin: 2% 2% 2% 2%;
+    padding: 1%;
+}
+#noteInput:focus{
+    outline: none;
+}
+#userInputNote{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 100%;
+    list-style: none;
+    font-weight: 700;
+}
+#notelist li{
+    color: #1f1f1f;
+    padding: 1% 5%;
+    margin: 0% 0% 0% -6%;
+}
+#tableNotes{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 100%;
+    font-weight: 600;
+}
+.fa-trash-alt{
+    color: red;
+}

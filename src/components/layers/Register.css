@@ -1,0 +1,66 @@
+#signupForm{
+    margin: -6% 0% 0% 0%;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+#signupText{
+    font-size: 1.5ex;
+    text-align: center;
+}
+#signupFname{
+    width: 100%;
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+    margin: 0% 1% 2% 1% ;
+    padding: 1% 1% 1% 3%;
+}
+#signupLname{
+    width: 100%;
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+    margin: 0% 1% 2% 1% ;
+    padding: 1% 1% 1% 3%;
+}
+#signupEmail{
+    width: 100%;
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+    margin: 0% 1% 2% 1% ;
+    padding: 1% 1% 1% 3%;
+}
+#signupPassword{
+    width: 100%;
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+    margin: 0% 1% 2% 1% ;
+    padding: 1% 1% 1% 3%;
+}
+#signupRepassword{
+    width: 100%;
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+    margin: 0% 1% 2% 1% ;
+    padding: 1% 1% 1% 3%;
+}
+#terms , #policy{
+    text-decoration: none;
+    color: grey;
+    
+}
+#registerButton {
+    position: relative;
+    margin: 3% 0% 0% 1%;
+    width: 100%;
+    background-color: rgba(88,88,88,0.2);
+    border: none;
+    color: black;
+}
+#registerButton:hover{
+    color: white;
+    background-color: rgba(88,88,88,0.8)
+}

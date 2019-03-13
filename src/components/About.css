@@ -1,0 +1,84 @@
+#aboutBack{
+   margin-top: -10%;
+   padding: 5% 0% 0% 0%;
+   height: 85vh;
+   background-position: center;
+   background-repeat: no-repeat;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+
+}
+#aboutText {
+   position: absolute;
+   letter-spacing: 1px;
+   left: 52%;
+   margin: 3% 0% 0% 0%;
+   padding-left: 5%;
+   text-align: center;
+}
+#aboutHeader{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 300%;
+    font-weight: 700;
+    letter-spacing: 6px
+}
+#aboutFigure{
+    position: absolute;
+    right: 51%;
+}
+#aboutImg{
+    width: 125%;
+    height: 125%;
+    /*box-shadow: 30px 30px 100px rgba(88,88,88, 0.1*/
+}
+#connectionImg {
+    width: 10%;
+    height: 10%;
+    margin: 5% 0% 2% 0%;
+}
+#connectionBox{
+    margin: 5% 0% 0% 0%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:500;
+    letter-spacing: 1px;
+}
+#borderLine {
+    border: 0.5px solid rgba(88,88,88,0.2);
+    width: 30%;
+    position: absolute; 
+    left:40%;
+    margin: 2% 0% 2% 0%;
+}
+#supportImg {
+    width: 10%;
+    height: 10%;
+    margin: 5% 0% 2% 0%;
+   
+}
+#supportBox{
+    margin: 5% 0% 0% 0%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:500;
+    letter-spacing: 1px;
+}
+#pricingImg {
+    width: 10%;
+    height: 10%;
+    margin: 5% 0% 2% 0%;
+    
+}
+#priceBox{
+    margin: 5% 0% 0% 0%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:500;
+    letter-spacing: 1px;
+}
+#aboutBody{
+    margin: 0% 5% 0% 0%;
+    text-align: center;
+    border: none;
+    padding:10%;
+    
+}

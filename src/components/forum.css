@@ -1,0 +1,49 @@
+#forumBack{
+    margin: 5% 0% 3% 0% ;
+    height: 50vh;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:500;
+    letter-spacing: 1px;
+}
+#forumimg {
+    margin: -3% 0% 0% 45%;
+    width: 55%;
+}
+#forumHeader{
+    padding: 7% 0% 0% 0%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 300%;
+    font-weight: 700;
+    letter-spacing: 6px;
+    position: absolute;
+    left: 12%;
+}
+#forumdetail{
+    padding: 13% 0% 0% 0%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    letter-spacing: 2px;
+    position: absolute;
+    left: 10%;
+    text-align: center;
+}
+#forumGetStartedbtn{
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    left: 19%;
+    margin: 23% 0%;
+    font-size: 90%;
+    background-color: rgba(88,88,88,0.2);
+    border: none;
+    color: black
+}
+#forumGetStartedbtn:hover{
+    color: white;
+    background-color: rgba(88,88,88,0.8)
+}
+#forumModalTitle {
+    position: relative;
+    left: 25%;
+    letter-spacing: 5px;
+    font-family: 'Montserrat', sans-serif;
+}

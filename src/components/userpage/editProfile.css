@@ -1,0 +1,22 @@
+#editProfilebox{
+    margin: 16% 0% 0% 5% ;
+    width: 50vw;
+    
+}
+#editprofileTitle{
+    padding: 1% 0% 1% 0% ;
+    text-align: center;
+}
+#card {
+    text-align: center;
+    margin: 23% 10% 0% 10%;
+    border-radius: 15px;
+}
+#usercoverpic{
+    height: 250px;
+    width: 100%;
+    border-radius: 4px 4px 0px 0px ;
+}
+#userDetail{
+    padding: 5% 15% 8% 15%;
+}
